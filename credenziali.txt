@@ -1,0 +1,10 @@
+credenziali
+
+admin
+
+username: admin
+pass:admin
+
+cliente
+username: nonadmin
+pass: nonadmin
